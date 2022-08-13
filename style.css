@@ -1,1 +1,83 @@
 
+body h2 , body h3 , body h5 , body p{
+  font-family: 'Aboreto';
+  text-align: center;
+}
+
+body .title {
+  border: medium solid black;
+}
+.colorscheme table {
+  margin: 50px 75px;
+}
+
+.colorscheme table td{
+  font-family: 'Silkscreen';
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  text-align: center;
+}
+.colorscheme .nudepink {
+  background-color: #e4a199;
+}
+
+.colorscheme .darknude {
+  background-color: #ce897b;
+}
+
+.colorscheme .pastelpink {
+  background-color: #fbd2d7;
+}
+
+.colorscheme .lightpink {
+  background-color: #ead3d7;
+}
+
+.fonts table {
+  border: thin solid black;
+  margin: 0 30px;
+}
+
+.fonts table td {
+  width: 200px;
+  height: 20px;
+}
+
+.fonts table thead {
+  background-color: #EAD3D7;
+}
+
+.fonts table .silkscreen {
+  font-family: 'Silkscreen';
+}
+
+.fonts table .aboreto {
+  font-family: 'Aboreto';
+}
+
+.pagestyle .mph {
+  background-color: #EAD3D7;
+  font-weight: 700;
+  font-size: 26px;
+  font-family: 'Aboreto';
+}
+
+.pagestyle .nav {
+  background-color: #FBD2D7;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Silkscreen';
+}
+
+.pagestyle .para {
+  background-color: #E4A199;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Aboreto;'
+}
+
+.headings {
+  font-weight: bold;
+  margin: 50px 50px;
+}
